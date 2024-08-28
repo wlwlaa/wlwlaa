@@ -5,8 +5,9 @@
 
 - 🌱 I’m currently learning **pytorch, model architecture and transformers**
 
-<h3 align="left">Connect with me: [Telegram](https://t.me/yooaao)</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+  [Telegram](https://t.me/yooaao)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
