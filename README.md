@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">I'm AI- & ML-engineer from Russia. Looking for some interesting projects and jobs</h3>
 
-- 🔭 I’m currently working on [this](https://github.com/wlwlaa/swarka/blob/main/svarka.pdf) and [this](https://github.com/wlwlaa/FlowScan/blob/main/FlowScan.pdf) computer vision projects
 
 - 🌱 I’m currently learning **pytorch, model architecture and transformers**
 
