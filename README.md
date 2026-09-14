@@ -4,9 +4,9 @@
 
 
 ### Skills 📝
-* Languages: Python, Dart, Swift, Kotlin
+* Languages: Python, Dart, Swift
 * DS,ML,DL: PyTorch, Transformers, Torchvision
-* Mobile: Flutter, iOS, Android
+* Mobile: Flutter, iOS
 * CI/CD: Linux, Git, Docker
 
 
@@ -18,6 +18,7 @@
 
 
 ### Education 🎓
+- Moscow Institute of Physics and Technology (Phystech): research engineer in the field of mathematics and computer science
 - Crimean Federal University: programm engineer
 - Algorithms and data structures: yandex practicum
 - AI and data analisys technologies: innopolis
