@@ -19,8 +19,8 @@
 
 ### Education 🎓
 - Moscow Institute of Physics and Technology (Phystech): research engineer in the field of mathematics and computer science
+- Algorithms and data structures: yandex
 - Crimean Federal University: programm engineer
-- Algorithms and data structures: yandex practicum
 - AI and data analisys technologies: innopolis
 
 
