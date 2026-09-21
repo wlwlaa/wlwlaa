@@ -4,10 +4,10 @@
 
 
 ### Skills 📝
-* Languages: Python, Dart, Swift
+* Languages: Python, Swift
 * DS,ML,DL: PyTorch, Transformers, Torchvision
-* Mobile: Flutter, iOS
-* CI/CD: Linux, Git, Docker
+* Mobile: iOS
+* CI/CD: bash, Git, Docker
 
 
 ### Professional Experience 👨‍💻
